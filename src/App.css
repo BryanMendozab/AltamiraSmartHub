@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  width: 100vw;
+  overflow-x: hidden;
+}
